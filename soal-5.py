@@ -13,6 +13,3 @@
 
 # ALGORITMA
 # Jangan lupa memberikan komentar secukupnya.
-
-# Seluruh nilai yang lulus disimpan dalam array bernama NilaiLulus. Urutan harus sama dengan urutan input.
-print(NilaiLulus)
